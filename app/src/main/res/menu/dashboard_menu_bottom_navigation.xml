@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_jelajah"
+        android:icon="@drawable/ic_search_24dp"
+        android:title="Jelajah" />
+
+    <item
+        android:id="@+id/navigation_donasi"
+        android:icon="@drawable/ic_favorite_24dp"
+        android:title="Donasi" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile_selector"
+        android:title="Profilku" />
+
+    <item
+        android:id="@+id/navigation_simpan"
+        android:icon="@drawable/ic_bookmark_24dp"
+        android:title="Simpan" />
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/ic_chat_24dp"
+        android:title="Chat" />
+
+</menu>
